@@ -1,0 +1,207 @@
+[{
+    "country": "Canada",
+    "city": "Ottawa",
+    "code": "ca"
+},
+{
+    "country": "Mexico",
+    "city": "Mexico City",
+    "code": "mx"
+},
+{
+    "country": "Argentina",
+    "city": "Buenos Aires",
+    "code": "ar"
+},
+{
+    "country": "United Kingdom",
+    "city": "London",
+    "code": "gb"
+},
+{
+    "country": "France",
+    "city": "Paris",
+    "code": "fr"
+},
+{
+    "country": "Germany",
+    "city": "Berlin",
+    "code": "de"
+},
+{
+    "country": "Italy",
+    "city": "Rome",
+    "code": "it"
+},
+{
+    "country": "Spain",
+    "city": "Madrid",
+    "code": "es"
+},
+{
+    "country": "Portugal",
+    "city": "Lisbon",
+    "code": "pt"
+},
+{
+    "country": "Netherlands",
+    "city": "Amsterdam",
+    "code": "nl"
+},
+{
+    "country": "Belgium",
+    "city": "Brussels",
+    "code": "be"
+},
+{
+    "country": "Switzerland",
+    "city": "Bern",
+    "code": "ch"
+},
+{
+    "country": "Sweden",
+    "city": "Stockholm",
+    "code": "se"
+},
+{
+    "country": "Norway",
+    "city": "Oslo",
+    "code": "no"
+},
+{
+    "country": "Denmark",
+    "city": "Copenhagen",
+    "code": "dk"
+},
+{
+    "country": "Finland",
+    "city": "Helsinki",
+    "code": "fi"
+},
+{
+    "country": "Russia",
+    "city": "Moscow",
+    "code": "ru"
+},
+{
+    "country": "China",
+    "city": "Beijing",
+    "code": "cn"
+},
+{
+    "country": "Japan",
+    "city": "Tokyo",
+    "code": "jp"
+},
+{
+    "country": "South Korea",
+    "city": "Seoul",
+    "code": "kr"
+},
+{
+    "country": "North Korea",
+    "city": "Pyongyang",
+    "code": "kp"
+},
+{
+    "country": "India",
+    "city": "New Delhi",
+    "code": "in"
+},
+{
+    "country": "Pakistan",
+    "city": "Islamabad",
+    "code": "pk"
+},
+{
+    "country": "Bangladesh",
+    "city": "Dhaka",
+    "code": "bd"
+},
+{
+    "country": "Sri Lanka",
+    "city": "Colombo",
+    "code": "lk"
+},
+{
+    "country": "Nepal",
+    "city": "Kathmandu",
+    "code": "np"
+},
+{
+    "country": "Australia",
+    "city": "Canberra",
+    "code": "au"
+}, {
+    "country": "New Zealand",
+    "city": "Wellington",
+    "code": "nz"
+}, {
+    "country": "Indonesia",
+    "city": "Jakarta",
+    "code": "id"
+}, {
+    "country": "Thailand",
+    "city": "Bangkok",
+    "code": "th"
+}, {
+    "country": "Malaysia",
+    "city": "Kuala Lumpur",
+    "code": "my"
+}, {
+    "country": "Singapore",
+    "city": "Singapore",
+    "code": "sg"
+}, {
+    "country": "Philippines",
+    "city": "Manila",
+    "code": "ph"
+}, {
+    "country": "Vietnam",
+    "city": "Hanoi",
+    "code": "vn"
+}, {
+    "country": "Cambodia",
+    "city": "Phnom Penh",
+    "code": "kh"
+}, {
+    "country": "Myanmar",
+    "city": "Naypyidaw",
+    "code": "mm"
+}, {
+    "country": "Egypt",
+    "city": "Cairo",
+    "code": "eg"
+}, {
+    "country": "Nigeria",
+    "city": "Abuja",
+    "code": "ng"
+}, {
+    "country": "Kenya",
+    "city": "Nairobi",
+    "code": "ke"
+}, {
+    "country": "Ghana",
+    "city": "Accra",
+    "code": "gh"
+}, {
+    "country": "Morocco",
+    "city": "Rabat",
+    "code": "ma"
+}, {
+    "country": "Algeria",
+    "city": "Algiers",
+    "code": "dz"
+}, {
+    "country": "Tunisia",
+    "city": "Tunis",
+    "code": "tn"
+}, {
+    "country": "Saudi Arabia",
+    "city": "Riyadh",
+    "code": "sa"
+}, {
+    "country": "United Arab Emirates",
+    "city": "Abu Dhabi",
+    "code": "ae"
+}]
